@@ -40,7 +40,42 @@
 
 >EJS- templating the pages to be rendered on app.
 
-##Screenshots
+## Screenshots
 >Home
 >![image](https://github.com/Ankit77760/CampGround/assets/115404574/c4415365-cae2-4e34-b135-48e6417c0b74)
+
+ >Login & Register
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/6301da87-371c-4daa-9087-5256c9a0654b)
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/683b496c-2d90-4e3c-a466-bff3143cd682)
+
+>Map
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/9d7592e6-96b8-49db-ae89-e7edc7d25871)
+
+>Show Camp Page
+>Without Logging In
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/dc004439-aaf7-4b77-875a-c0c257eec128)
+>With Logging In
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/ce2669c1-cc47-4a9a-be6e-c0ec0fa828d1)
+>Campground and Review With Logged In Page By Owner
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/2fafac0f-bc73-49f9-af35-077256410687)
+>Campground and Review Page without Logging In
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/773ae4a3-f325-4985-9d56-503655aec60e)
+
+>New And Update Campground Page
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/559132c8-d61e-4c6c-bb6c-7fc07b20d90d)
+>Edit Campground Page
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/3d25025a-aee9-4f92-bb37-7139c4599817)
+
+>All Campground Page
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/28c3b731-cde4-4f41-9bba-0a752600959d)
+
+>Footer
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/9bd32834-cbfd-4e07-ab99-c297d78ef8ce)
+
+
+
+
+
+
+
 
