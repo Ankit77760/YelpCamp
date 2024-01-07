@@ -39,3 +39,8 @@
 >MongoCluster - Storage of Data
 
 >EJS- templating the pages to be rendered on app.
+
+##Screenshots
+>Home
+>![image](https://github.com/Ankit77760/CampGround/assets/115404574/c4415365-cae2-4e34-b135-48e6417c0b74)
+
