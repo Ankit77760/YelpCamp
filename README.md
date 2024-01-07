@@ -20,8 +20,6 @@
 
 >Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
 
->jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
-
 >DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
 
 >Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
@@ -36,6 +34,8 @@
 
 >Data Associations - associating user data with the respective campgrounds and comments using reference method
 
->Heroku - cloud platform as a service used as a web application deployment model
+>Joi - Data Validation
 
->AWS - mongodb is hosted on amazon ec2 instance
+>MongoCluster - Storage of Data
+
+>EJS- templating the pages to be rendered on app.
