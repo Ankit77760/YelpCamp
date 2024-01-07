@@ -72,10 +72,26 @@
 >Footer
 >![image](https://github.com/Ankit77760/CampGround/assets/115404574/9bd32834-cbfd-4e07-ab99-c297d78ef8ce)
 
+## Methods To Use
+<ul> 
+<li>Download The Code As Zip File and extract the file</li>
+<li>Install all the dependencies using the below command and follow on the remaining bash commands</li>
+>npm i bs-custom-file-input cloudinary connect-flash connect-mongo dotenv ejs ejs-mate express express-session joi method-override mongoose multer multer-storage-cloudinary passport passport-local passport-local-mongoose @mapbox/mapbox-sdk
+>cd seeds
+>node index.js
+>cd ..
+>node app.js
+>Open Web Browser and use LocalHost Port 3000
+</ul>
+<h4>http://localhost:3000/campgrounds</h4>
 
+## General
+>.env files have been not shared due to password restriction. One can obtain by requesting it.
 
+<h3>All Changes and recommendations are highly appreciated </h3>
 
-
+## Thanks 
+## Developed By Ankit Mishra
 
 
 
